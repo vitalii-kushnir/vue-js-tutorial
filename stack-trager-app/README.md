@@ -1,6 +1,5 @@
-# Monster Slayer App
+# Stock Trader
 
-> A small Vue.js application where player fights versus monster.
 ## Build Setup
 
 ``` bash
@@ -13,3 +12,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+F

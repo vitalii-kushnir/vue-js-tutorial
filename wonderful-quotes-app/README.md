@@ -1,4 +1,4 @@
-# wonderful-quotes-app
+# Wonderful Quotes App
 
 > A small Vue.js application which uses Vue components for building SPA.
 
